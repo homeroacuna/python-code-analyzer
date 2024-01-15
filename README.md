@@ -4,7 +4,7 @@
 
 Run from cmd and pass the folder or file path as an argument:
 
-```python code-analyzer folder_or_file_path```
+```python code-analyzer.py folder_or_file_path```
 
 
 The script checks for 6 format errors in lines:
