@@ -1,5 +1,5 @@
 # python-code-analyzer
- Python script to run basic format validation on .py files in a directory tree.
+ Python script to run basic format validation on .py files in a directory tree in Windows.
 
 
 Run from cmd and pass the folder or file path as an argument:
